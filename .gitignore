@@ -1,0 +1,15 @@
+logs
+
+# NPM
+node_modules
+.npm
+npm-debug.log
+
+# Build distribution directory
+dist
+
+# External libs
+src/lib
+
+# Compiled CSS
+src/css
